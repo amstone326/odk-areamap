@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <string name="app_name">MyApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect_points_button_text">Connect Points</string>
+    <string name="api_key">AIzaSyB0FHuQzRY2FLECxN_M0cwh-gGF0wGLNXQ</string>
+    <string name="start_walk">Start Walk</string>
+    <string name="instructions">Click map to define your area or press start walk to walk around its perimeter
+        </string>
+    <string name="empty"> </string>
+    
+    
+</resources>
