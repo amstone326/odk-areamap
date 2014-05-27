@@ -1238,10 +1238,11 @@ containing a value of this type.
         public static final int ic_plusone_small_off_client=0x7f020071;
         public static final int ic_plusone_standard_off_client=0x7f020072;
         public static final int ic_plusone_tall_off_client=0x7f020073;
+        public static final int tag_selected=0x7f020074;
+        public static final int tag_selector=0x7f020075;
+        public static final int tag_unselected=0x7f020076;
     }
     public static final class id {
-        public static final int InstructionsText=0x7f060042;
-        public static final int LocationText=0x7f060043;
         public static final int action_bar=0x7f06001f;
         public static final int action_bar_activity_content=0x7f060018;
         public static final int action_bar_container=0x7f06001e;
@@ -1253,13 +1254,15 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f060019;
         public static final int action_menu_presenter=0x7f06001a;
         public static final int action_mode_close_button=0x7f060027;
-        public static final int action_settings=0x7f060046;
+        public static final int action_settings=0x7f060049;
         public static final int activity_chooser_view_content=0x7f060028;
         public static final int always=0x7f06000f;
+        public static final int area_text=0x7f060045;
         public static final int beginning=0x7f060014;
+        public static final int cancel_walk_button=0x7f060046;
         public static final int checkbox=0x7f060030;
         public static final int collapseActionView=0x7f060011;
-        public static final int connect_points_button=0x7f060045;
+        public static final int connect_points_button=0x7f060043;
         public static final int default_activity_button=0x7f06002b;
         public static final int dialog=0x7f060012;
         public static final int disableHome=0x7f06000c;
@@ -1268,21 +1271,23 @@ containing a value of this type.
         public static final int end=0x7f060016;
         public static final int expand_activities_button=0x7f060029;
         public static final int expanded_menu=0x7f06002f;
+        public static final int finished_instructions_text=0x7f060042;
         public static final int home=0x7f060017;
         public static final int homeAsUp=0x7f060009;
         public static final int hybrid=0x7f060004;
         public static final int icon=0x7f06002d;
         public static final int ifRoom=0x7f06000e;
         public static final int image=0x7f06002a;
+        public static final int instructions_text=0x7f060041;
         public static final int listMode=0x7f060005;
         public static final int list_item=0x7f06002c;
+        public static final int manual_entry_button=0x7f060047;
         public static final int map=0x7f060040;
         public static final int mapLayout=0x7f06003f;
         public static final int middle=0x7f060015;
         public static final int never=0x7f06000d;
         public static final int none=0x7f060000;
         public static final int normal=0x7f060001;
-        public static final int otherItemsLayout=0x7f060041;
         public static final int progress_circular=0x7f06001b;
         public static final int progress_horizontal=0x7f06001c;
         public static final int radio=0x7f060032;
@@ -1297,6 +1302,7 @@ containing a value of this type.
         public static final int search_plate=0x7f060039;
         public static final int search_src_text=0x7f06003a;
         public static final int search_voice_btn=0x7f06003e;
+        public static final int send_to_commcare=0x7f060048;
         public static final int shortcut=0x7f060031;
         public static final int showCustom=0x7f06000b;
         public static final int showHome=0x7f060008;
@@ -1436,6 +1442,7 @@ containing a value of this type.
         [CHAR LIMIT=70] 
          */
         public static final int auth_client_using_bad_version_title=0x7f070013;
+        public static final int cancel_walk_button_text=0x7f07002f;
         /**  Button in confirmation dialog to enable Google Play services.  Clicking it
         will direct user to application settings of Google Play services where they
         can enable it [CHAR LIMIT=40] 
@@ -1504,10 +1511,13 @@ containing a value of this type.
          */
         public static final int common_signin_button_text_long=0x7f070012;
         public static final int connect_points_button_text=0x7f070029;
-        public static final int empty=0x7f07002d;
+        public static final int empty=0x7f07002e;
+        public static final int finished_instructions=0x7f07002d;
         public static final int hello_world=0x7f070027;
         public static final int instructions=0x7f07002c;
-        public static final int start_walk=0x7f07002b;
+        public static final int manual_button_text=0x7f070031;
+        public static final int send_to_commcare_text=0x7f070030;
+        public static final int start_walk_button_text=0x7f07002b;
     }
     public static final class style {
         /** 
